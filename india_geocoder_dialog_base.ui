@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>539</width>
-    <height>274</height>
+    <width>580</width>
+    <height>269</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -16,7 +16,7 @@
   <widget class="QDialogButtonBox" name="button_box">
    <property name="geometry">
     <rect>
-     <x>170</x>
+     <x>210</x>
      <y>220</y>
      <width>341</width>
      <height>32</height>
@@ -32,7 +32,7 @@
   <widget class="QToolButton" name="toolButton">
    <property name="geometry">
     <rect>
-     <x>480</x>
+     <x>520</x>
      <y>160</y>
      <width>26</width>
      <height>22</height>
@@ -47,7 +47,7 @@
     <rect>
      <x>150</x>
      <y>160</y>
-     <width>321</width>
+     <width>351</width>
      <height>21</height>
     </rect>
    </property>
@@ -70,7 +70,7 @@
     <rect>
      <x>30</x>
      <y>30</y>
-     <width>481</width>
+     <width>521</width>
      <height>101</height>
     </rect>
    </property>
@@ -79,7 +79,7 @@
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'.SF NS Text'; font-size:13pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p align=&quot;center&quot; style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; color:#007000;&quot;&gt;This plugin requires HMIS data of various health indicators which can be obtained from NRHM website. Visit &lt;/span&gt;&lt;span style=&quot; font-weight:600; color:#007000;&quot;&gt;https://nrhm-mis.nic.in/hmisreports/frmstandard_reports.aspx&lt;/span&gt;&lt;span style=&quot; color:#007000;&quot;&gt;, go to &lt;/span&gt;&lt;span style=&quot; font-family:'Verdana,Helvetica,Arial,sans-serif'; font-style:italic; color:#007000; background-color:#ffffff;&quot;&gt;Performance of Key HMIS Indicators Across Sub District&lt;/span&gt;&lt;span style=&quot; font-family:'Verdana,Helvetica,Arial,sans-serif'; color:#007000; background-color:#ffffff;&quot;&gt; and download suitable directory. Enter local path of the downloaded directory below.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+&lt;p align=&quot;center&quot; style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; color:#007000;&quot;&gt;This plugin requires HMIS data which can be obtained from NRHM website. Visit &lt;/span&gt;&lt;span style=&quot; font-weight:600; color:#007000;&quot;&gt;https://nrhm-mis.nic.in/hmisreports/frmstandard_reports.aspx&lt;/span&gt;&lt;span style=&quot; color:#007000;&quot;&gt;, go to &lt;/span&gt;&lt;span style=&quot; font-family:'Verdana,Helvetica,Arial,sans-serif'; font-style:italic; color:#007000; background-color:#ffffff;&quot;&gt;Performance of Key HMIS Indicators(upto District Level)&lt;/span&gt;&lt;span style=&quot; font-family:'Verdana,Helvetica,Arial,sans-serif'; color:#007000; background-color:#ffffff;&quot;&gt; and download suitable directory. Enter the local path of the downloaded directory below.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
    </property>
   </widget>
  </widget>
