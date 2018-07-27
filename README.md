@@ -22,7 +22,7 @@ Now to install **India GeoCoder** plugin:
 4. Step 4: Click the **Installed** tab in the dialog box that appears.
 5. Step 5: Select **India GeoCoder** from the list view in the dialog and install it.
 
-![Dialog box](https://github.com/yashdeep01/India-GeoCoder/blob/master/Screenshots/Installed_plugins_dialog.png)
+
  
 If you received the plugin as a zip file, instead of clicking **Installed** tab in the **Plugins** dialog, select **Install from ZIP** tab and give the path of the zip file.
 
@@ -30,4 +30,4 @@ If you received the plugin as a zip file, instead of clicking **Installed** tab 
 #### Note:
 Spatial data for geocoding and visualisation is provided in the repository as **All.gpkg**. This is a district level geopackage file of India. Non-spatial data should be downloaded from **Performance of Key HMIS Indicators(upto District Level)** section of the NRHM website. This directory should be given as input in the first dialog while ***Loading and Joining Data***. A folder containing sample health data for district is given in the repository for reference and testing purposes. User may use *this* as the input directory discussed above.
 
-![Dialog box](https://github.com/yashdeep01/India-GeoCoder/blob/master/Screenshots/Input_directory.png)
+
